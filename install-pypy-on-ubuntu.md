@@ -32,7 +32,9 @@ PyPI libraries into that virtual environment. pypy-pip can then be
 safely run from any directory:
 
 $ cd myenv/bin
+
 $ sudo ln -s "$PWD/pypy" /usr/local/bin/pypy
+
 $ sudo ln -s "$PWD/pip" /usr/local/bin/pypy-pip
 
 Install Numpy into the virtual environment:
