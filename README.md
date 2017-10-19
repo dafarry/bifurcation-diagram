@@ -1,10 +1,10 @@
 # Bifurcation diagram
 
-### Animation as "a" changes of n ↦ re<sup>-n<sup>2</sup></sup>(c-e<sup>-n<sup>2</sup></sup>)
+## Animation as "a" changes of n ↦ re<sup>-n<sup>2</sup></sup>(a-e<sup>-n<sup>2</sup></sup>)
 
-Licence: public domain
+**Licence: public domain**
 
-## __Files__
+**__Files__**
 
 **bifurcation-make-images.py**
 
