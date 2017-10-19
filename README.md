@@ -4,7 +4,7 @@
 
 **Licence: public domain**
 
-## _Files_
+## <u>Files</u>
 
 **bifurcation-make-images.py**
 
