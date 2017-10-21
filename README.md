@@ -32,7 +32,9 @@
   Linux distros but not the "fake" ffmpeg that's a front-end to
   avconv that was in many distros until just recently.
 
-  **install-pypy-on-ubuntu.md**
+  **install-pypy-on-ubuntu.sh**
 
-  Installing Pypy on Ubuntu proved to be a bit fiddly, so a bunch
-  of notes are included here to install it with the needed libraries.
+  Installing Pypy on Ubuntu proved to be a bit fiddly, so this bash
+  script is provided to do it. It's advisable to read all the comments
+  in the script. You might want to cut and paste each command one at a
+  time to the bash shell so that you control the process.
